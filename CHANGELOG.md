@@ -2,6 +2,8 @@
 
 All Notable changes to `php-amqplib` will be documented in this file
 
+## 2.8.0-rc1 - 2018-05-16
+
 ## 2.7.2 - 2018-02-11
 
 [GitHub Milestone](https://github.com/php-amqplib/php-amqplib/milestone/5)
